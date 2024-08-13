@@ -1,7 +1,9 @@
 ## Tech Stack 
 
-**Frontend** - HTML5, CSS3, TS, Axios, Material UI, Reactjs,
+**Frontend** - HTML5, CSS3, TS, Axios, Material UI, Reactjs
+
 **Backend** - Nodejs, Expressjs, MongoDB
+
 **Tools** - Git, VS Code, Postman
 
 <h2>Contribution </h2>
